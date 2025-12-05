@@ -18,6 +18,14 @@
         echo "</li>";
     }
 
+echo '<a href="contact-sent.php"> Contact sent page </a>';
+echo "<br>";
+echo '<a href="contact.html"> Contact page </a>';
+echo "<br>";
+echo '<a href="Index.html"> Index page </a>';
+
+
+
 
     ?>
 </body>
